@@ -8,4 +8,5 @@ Some studies using Deep Neural Networks with Tensorflow
 <li>Recognizing clothing in Fashion MNIST</li>
 <li>CNNs applied to Human/Horse binary classification</li>
 <li>CNNs applied to Cat/Dog binary classification</li>
+<li>Transfer Learning and Fine Tuning with MobileNet V2</li>
 </ul>
